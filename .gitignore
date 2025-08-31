@@ -1,0 +1,11 @@
+# Terraform state and cache
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Lambda deployment packages
+*.zip
+
+# Python cache files
+__pycache__/
+*.pyc
